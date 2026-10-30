@@ -9,8 +9,8 @@
 Official repository to reproduce the data pre-processing, model pre-training, autoregressive rollout inference, tabular baseline comparisons, and statistical evaluation presented in the paper:
 
 > **Quantifying the Silent Failure Modes of Generative Electronic Health Record Models**
-> *Anonymous Authors*
-> [Paper Link (PDF)](TODO) | [arXiv Placeholder](TODO)
+> Simon Ellershaw, Anoop D. Shah, Richard Dobson, Christopher Tomlinson
+> [Abstract](https://openreview.net/forum?id=JUd8c2Efv5)
 
 ---
 
@@ -429,13 +429,16 @@ All figures (formatted with publication typography, Tab10 colour palettes, and c
 If you find this codebase or our paper useful in your research, please cite:
 
 ```bibtex
-@article{mimic_struct_predict2026,
-  title={Quantifying the Silent Failure Modes of Generative Electronic Health Record Models},
-  author={Anonymous Authors},
-  journal={Conference Submission},
-  year={2026}
+@inproceedings{
+    ellershaw2026quantifying,
+    title={Quantifying the Silent Failure Modes of Generative Electronic Health Record Models},
+    author={Simon Ellershaw and Anoop D. Shah and Richard Dobson and Christopher Tomlinson},
+    booktitle={The Third Workshop on GenAI for Health: Agentic Systems, Clinical Trust, and Future Potential},
+    year={2026},
+    url={https://openreview.net/forum?id=JUd8c2Efv5}
 }
 ```
+Corresponding Author: simon.2.ellershaw@kcl.ac.uk
 
 ## Licence
 
